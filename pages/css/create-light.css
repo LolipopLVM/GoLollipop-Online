@@ -1,0 +1,57 @@
+/***
+this css has the create page stuff
+***/
+
+/**
+main
+**/
+main {
+	/* style */
+	padding: 20px 40px;
+	/* layout */
+	display: block;
+	text-align: -webkit-center;
+}
+
+/**
+theme
+**/
+.theme {
+	/* style */
+	background: #ececec;
+	text-align: center;
+	text-decoration: none;
+	max-width: 150px;
+	height: 205px;
+	border-radius: 6px;
+	transition: 0.05s linear;
+	padding: 3px;
+	/* layout */
+	display: inline-table;
+	position: relative;
+	margin: 5px;	
+}
+.theme:hover {
+	background: #cecece;
+	color: #d85e27;
+}
+/* pick a creation */
+.pick_creation {
+	height: 240px;
+}
+/* change link color on hover */
+.theme:hover>a,
+.theme:hover>a:visited {
+	color: #d85e27;
+}
+/* items */
+.theme>a, .theme>a:visited {
+	color: #474747;
+	text-decoration: none;
+}
+.theme>a>img, .theme>div>img {
+	border-radius: 6px;
+}
+.theme>a>p, .theme>div>p {
+	margin: 0;
+}
