@@ -46,4 +46,4 @@
 	</nav>
 </footer>
 
-</body></php>
+</body></html>
