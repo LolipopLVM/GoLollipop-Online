@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG REPORT]"
+title: "[BUG REPORT] (Insert quick description of issue here)"
 labels: bug
 assignees: FlowLoop, jaigitrep159
 
