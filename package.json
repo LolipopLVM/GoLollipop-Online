@@ -4,7 +4,7 @@
   "description": "an alvm",
   "main": "index.js",
   "scripts": {
-    "test": "gostart"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
