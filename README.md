@@ -5,6 +5,7 @@ GoLollipop is an online project to revive the legacy video maker for goanimate, 
 | User:    | Contribution/Job                      |
 | -------- | ------------------------------------- |
 |SnowFLG64 | Chief Developer & Founder (Fullstack) |
+|JaimeV2   | Vice Project Lead & Co-Founder        |
 
 
 ## FAQ
