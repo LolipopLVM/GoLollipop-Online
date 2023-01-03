@@ -17,3 +17,5 @@ GoLollipop is an online project to revive the legacy video maker for goanimate, 
       
 - **Q: Can a hacker go into the database and get my password?**
     - A: most likely not, we are thinking of hosting this website somewhere safe, and also the passwords are encrypted so nobody can figure them out.
+- **Q: Can We use the video maker offline**
+    - A: Not yet, at this time we are thinking of making a chrome extention to run this offline
