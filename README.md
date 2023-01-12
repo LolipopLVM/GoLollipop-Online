@@ -1,4 +1,6 @@
 # GoLollipop Online
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9be8029-2b9f-44ff-a094-3ea1f6cd2697/deploy-status)](https://app.netlify.com/sites/gorgeous-bombolone-e6c4c6/deploys)
+
 GoLollipop is an online project to revive the legacy video maker for goanimate, it is a massive project with a login system and some more themes for your usage! this project is mainly being developed by SnowFLG64. it also will have customizability in the LVM, it will be the **first online LVM to have a login system!** 
 
 ### Credits:
